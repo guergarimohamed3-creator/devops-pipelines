@@ -1,0 +1,17 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "description": "Projet de pratique CI/CD Pipeline avec GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "devops",
+    "ci-cd",
+    "github-actions"
+  ],
+  "author": "",
+  "license": "ISC"
+}
